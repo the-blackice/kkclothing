@@ -711,3 +711,21 @@ footer {
         min-width: 200px;
     }
 }
+
+/* X (Twitter) Logo Styling */
+.fa-x-twitter {
+    font-size: 1.4rem;
+}
+
+/* Ensure all social media icons are properly sized */
+.social-links .fab {
+    font-size: 1.5rem;
+}
+
+/* Contact page specific styling for social media links */
+.contact-info .fab {
+    color: var(--accent-color);
+    margin-right: 0.5rem;
+    width: 20px;
+    text-align: center;
+}
